@@ -43,6 +43,12 @@ This project demonstrates how **AI-driven machine learning** can play a vital ro
 - Supporting **sustainability goals**  
 
 ---
+## 🔒 Source Code Access  
+The detailed source code and datasets used in this project are kept private.  
+If you are interested in exploring the implementation or collaborating,  
+please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/usman-yousuf-2k)  
+or reach out via email: **musmanyousufidrees@gmail.com**.
+
 
 ## 🔗 Connect  
 If you’re interested in AI for energy efficiency and sustainability, let’s connect!  
